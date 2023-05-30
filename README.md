@@ -7,3 +7,5 @@ x22195441
 
 ---
 To run the script.sh run: 'bash script.sh'
+
+Insert new line from terminal test
